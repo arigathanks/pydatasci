@@ -1,5 +1,5 @@
 # pyDataSci
-Collection of mini-projects to showcase familiarity of using Python in data science applications.
+Collection of mini-projects to showcase familiarity of using Python and statistics in data science applications.
 
 # Public access URLs (Google Colab)
 Google drive URLs are provided for easy vieweing ofJupyter Notebooks using Google Colab.
