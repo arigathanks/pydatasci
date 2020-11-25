@@ -1,4 +1,4 @@
-# pyDataSci
+# pydatasci
 Collection of mini-projects to showcase familiarity of using Python and statistics in data science applications.
 
 # Public access URLs (Google Colab)
