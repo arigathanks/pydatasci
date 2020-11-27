@@ -2,7 +2,7 @@
 Collection of mini-projects to showcase familiarity of using Python and statistics in data science applications.
 
 # Public access URLs (Google Colab)
-Google drive URLs are provided for easy vieweing ofJupyter Notebooks using Google Colab.
+Google drive URLs are provided for easy viewing of Jupyter Notebooks using Google Colab.
 
 ## 1 - Google Colab
 https://drive.google.com/drive/folders/1unbivoG-hvGTnlQFySCkd19018sj-8C6?usp=sharing
